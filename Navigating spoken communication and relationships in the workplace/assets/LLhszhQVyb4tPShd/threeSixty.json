@@ -1,0 +1,32 @@
+{
+  "version": "3.93.33359.0",
+  "course_id": "5kzcR2937Dt",
+  "title": "Effective Comms Mod Storyline (Lynn)",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6FpV3VwDC6S",
+      "title": "Cover",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6gS1dn7hDLK",
+      "title": "Ladder of Abstraction",
+      "scene_index": "1.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 718
+  },
+  "stage": {
+    "width": 720,
+    "height": 600
+  }
+}
